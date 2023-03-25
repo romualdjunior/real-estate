@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   api: {
-    server: 'http://localhost:8000/',
+    server: 'https://real-estate-380600.lm.r.appspot.com/',
     mapKey: '',
     googleAuthClientId: ''
   }
