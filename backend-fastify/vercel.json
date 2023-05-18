@@ -10,7 +10,7 @@
         { "key": "Access-Control-Allow-Credentials", "value": "true" },
         {
           "key": "Access-Control-Allow-Origin",
-          "value": "https://real-estate-kqhm6zswe-romualdjunior.vercel.app"
+          "value": "https://real-estate-self-three.vercel.app"
         },
         {
           "key": "Access-Control-Allow-Methods",
