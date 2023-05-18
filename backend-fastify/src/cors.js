@@ -7,7 +7,6 @@ export const setFastifyCors = function (fastify) {
       "http://localhost:9000",
       "http://localhost:8100",
       "http://localhost:4200",
-      "https://real-estate-380600.lm.r.appspot.com",
       "https://real-estate-8fsc.vercel.app",
       "*",
 
