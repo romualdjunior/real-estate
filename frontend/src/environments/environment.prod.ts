@@ -1,7 +1,7 @@
 export const environment = {
   production: true,
   api: {
-    server: 'https://real-estate-380600.lm.r.appspot.com/',
+    server: 'https://real-estate-w2jh.vercel.app',
     mapKey: '',
     googleAuthClientId: ''
   }
