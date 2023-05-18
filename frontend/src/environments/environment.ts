@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   api: {
-    server: 'https://real-estate-w2jh.vercel.app',
+    server: 'https://real-estate-w2jh.vercel.app/',
     mapKey: 'f245742e-bd30-4709-8728-7aa3db68afac',
     googleAuthClientId: '425531679999-cqsg439jtk4ag4inindqf58kreea42ig.apps.googleusercontent.com'
   }
