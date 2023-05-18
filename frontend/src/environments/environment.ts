@@ -5,9 +5,9 @@
 export const environment = {
   production: false,
   api: {
-    server: 'http://localhost:8000/',
-    mapKey: '',
-    googleAuthClientId: ''
+    server: 'https://real-estate-380600.lm.r.appspot.com/',
+    mapKey: 'f245742e-bd30-4709-8728-7aa3db68afac',
+    googleAuthClientId: '425531679999-cqsg439jtk4ag4inindqf58kreea42ig.apps.googleusercontent.com'
   }
 };
 
